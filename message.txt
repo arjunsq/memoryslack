@@ -1,1 +1,1 @@
-{"text":"Attention there is a memory spike to a percentage of 34% !"}
+{"text":"Attention there is a memory spike to a percentage of 32% !"}
